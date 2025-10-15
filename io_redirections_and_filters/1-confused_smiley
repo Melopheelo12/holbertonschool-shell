@@ -1,2 +1,3 @@
 #!/bin/bash
-echo -e '"(\xC3\x94o)\''
+printf '"(\xC3\x94o)\'\n'
+
