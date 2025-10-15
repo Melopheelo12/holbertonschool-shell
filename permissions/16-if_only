@@ -1,2 +1,2 @@
 #!/bin/bash
-mikwepa
+chown hello vincent if from=guillaume
