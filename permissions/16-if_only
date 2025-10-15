@@ -1,2 +1,2 @@
 #!/bin/bash
-chown hello vincent if from=guillaume
+chown --from=guillaume vincent hello
